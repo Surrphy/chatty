@@ -1,3 +1,3 @@
 # chatty
 
-Indead, it is very important to read this file.
+It IS very important to read this file.
